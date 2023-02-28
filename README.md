@@ -5,6 +5,7 @@ Kann man die Uhrzeit an den Sternen ablesen? Oder das Datum am Stand der Sonne? 
 
 ## Entstehungskontext und Förderhinweis
 Diese mobile App für Android und iOS ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt: Die Dinge (wieder) in Bewegung bringen. Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. Weitere Informationen: www.museum4punkt0.de
+
 ![BKM-Logo](https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04%20Logos/BKM_Fz_2017_Web_de.gif)
 ![NeustartKultur](https://github.com/museum4punkt0/Object-by-Object/blob/22f4e86d4d213c87afdba45454bf62f4253cada1/04%20Logos/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
 
@@ -34,4 +35,4 @@ Technische Koordinierung: Markus Wacker, Hochschule für Technik und Wirtschaft 
 Design: Fons Hickmann M23, Berlin
 
 ## Lizenz
-/**muss noch geklärt und hier ergänzt werden*/
+GNU General Public License 3
